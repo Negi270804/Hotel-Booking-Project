@@ -7,8 +7,7 @@ This repository contains an exploratory data analysis (EDA) project on hotel boo
 
 - **Project Type:** Exploratory Data Analysis (EDA)
 - **Contributor:** Nikhil Negi
-- **Dataset Size:** ~119,000 records, 32 columns
-- **Data Source:** [Hotel Bookings Dataset](https://www.sciencedirect.com/science/article/pii/S2352340918315191)  
+- **Dataset Size:** ~119,000 records, 32 columns  
 - **GitHub Repository:** [Hotel Booking Project](https://github.com/Negi270804/Hotel-Booking-Project.git)
 
 ## 🎯 Business Objective
