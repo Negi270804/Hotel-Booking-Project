@@ -108,7 +108,7 @@ Special thanks to:
 ## 📬 Connect with Me
 
 📧 **Nikhil Negi**  
-🔗 [LinkedIn](https://www.linkedin.com/in/negi270804)  
+🔗 [LinkedIn](https://www.linkedin.com/in/nikhil-negi-0bb166328)  
 📁 [GitHub](https://github.com/Negi270804)
 
 ---
